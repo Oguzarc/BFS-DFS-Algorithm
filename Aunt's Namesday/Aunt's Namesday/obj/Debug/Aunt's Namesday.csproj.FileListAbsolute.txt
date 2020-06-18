@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Aunt's Namesday\Aunt's Namesday\bin\Debug\Aunt's Namesday.exe.config
+C:\Users\user\source\repos\Aunt's Namesday\Aunt's Namesday\bin\Debug\Aunt's Namesday.exe
+C:\Users\user\source\repos\Aunt's Namesday\Aunt's Namesday\bin\Debug\Aunt's Namesday.pdb
+C:\Users\user\source\repos\Aunt's Namesday\Aunt's Namesday\obj\Debug\Aunt's Namesday.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Aunt's Namesday\Aunt's Namesday\obj\Debug\Aunt's Namesday.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Aunt's Namesday\Aunt's Namesday\obj\Debug\Aunt's Namesday.exe
+C:\Users\user\source\repos\Aunt's Namesday\Aunt's Namesday\obj\Debug\Aunt's Namesday.pdb
